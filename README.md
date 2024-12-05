@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# TaskManagementApp
+Task Management Application created wtih Ruby on Rails and Vue.Js
+>>>>>>> 9ccbcc9640df7a643dc4bca672c3499d03aadaa7
