@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Rails framework - the core of the app.
-gem "rails", "~> 8.0.0"
+gem "rails", "~> 8.0.1"
 
 # Handles CSS/JS assets. Simplifies things.
 gem "propshaft"
